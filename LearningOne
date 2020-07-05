@@ -5,5 +5,12 @@ Third Line
 Wrote Fourth Line
 Master branch ended
 
+
 New Branch Starts
 Line One added to new branch
+
+Added new lines in the master branch after making changes in the child branch.
+Below three lines are notr in the child branch.
+Line One - Not in child branch
+Line Two - Not in child branch
+Line Three - Not in child branch.
